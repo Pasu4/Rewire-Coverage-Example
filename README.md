@@ -11,7 +11,7 @@ I have committed the coverage to the repo, so you can skip steps 2&ndash;4 if yo
 2. Install dependencies: `npm install`
 3. Compile the extension: `npm run compile`
 4. Run the tests: `npm run test`
-5. Open `coverage/index.html` in a browser and navigate to `src > `.
+5. Open `coverage/other_file.ts.html` in a browser
 
 ## Important Files
 
